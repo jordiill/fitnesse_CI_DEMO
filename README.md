@@ -5,8 +5,6 @@ Welcome to FitNesse, the fully integrated stand-alone acceptance testing framewo
 To get started, check out [http://fitnesse.org](http://fitnesse.org)!
 
 
-
-
 ## Quick start
 
 * [A One-Minute Description of FitNesse](http://fitnesse.org/FitNesse.UserGuide.OneMinuteDescription)
